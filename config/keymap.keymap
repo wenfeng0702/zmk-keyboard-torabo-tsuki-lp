@@ -57,10 +57,10 @@
 &trans  &trans   &trans   &trans        &kp DELETE    &kp TAB     &trans  &trans  &trans            &trans     &trans         &trans     &trans      &trans
             >;
         };
- 
-        layer_4 {
+
+layer_4 {
     display-name = "Scroll";
     status = "reserved";
-}; 
+};
     };
 };
