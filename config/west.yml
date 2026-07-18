@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: sekigon-gonnoc
       url-base: https://github.com/sekigon-gonnoc
-        - name: wenfeng0702
-    url-base: https://github.com/wenfeng0702
+    - name: wenfeng0702
+      url-base: https://github.com/wenfeng0702
   projects:
     - name: zmk
       remote: zmkfirmware
