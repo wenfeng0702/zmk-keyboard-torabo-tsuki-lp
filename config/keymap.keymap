@@ -66,5 +66,9 @@ layer_5 {
     display-name = "Precision";
     status = "reserved";
 };
+layer_6 {
+    display-name = "Fast Scroll";
+    status = "reserved";
+};
     };
 };
