@@ -62,5 +62,9 @@ layer_4 {
     display-name = "Scroll";
     status = "reserved";
 };
+layer_5 {
+    display-name = "Precision";
+    status = "reserved";
+};
     };
 };
